@@ -36,8 +36,8 @@
         "key": "wobg",
         "name": "玩偶2【📺】",
         "type": 3,
-        "api": "./js/wobg.js",
-        "ext": "填你的阿里token"
+        "api": "csp_Wogg"",
+        "ext": "https://agit.ai/smy/zy/raw/branch/master/cat/js/wogg.js"
    },  
    {
         "key": "hmsp_open",
